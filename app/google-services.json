@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "832520112094",
+    "firebase_url": "https://sample-db-connect-default-rtdb.firebaseio.com",
+    "project_id": "sample-db-connect",
+    "storage_bucket": "sample-db-connect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832520112094:android:cc4dbbe94282d82a923f4f",
+        "android_client_info": {
+          "package_name": "com.example.sampledbconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALABisdouKIAm2gKqFpj2Ctrc9FpuEJQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
